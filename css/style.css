@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto&display=swap');
+
+html {
+	font-size: 10px;
+}
+
+body {
+	margin: 0;
+	background: url('../images/pexels-adrien-olichon-2387793.jpg') no-repeat;
+	background-size: cover;
+}
+
+main {
+	width: 50%;
+	margin: 10% auto;
+	background-color: rgba(0,0,0,0.5);
+	padding: 50px;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	color: white;
+	text-align: center;
+	font-size: 5rem;
+	letter-spacing: 0.5rem;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	color: #fefefe;
+	text-align: center;
+	font-size: 2rem;
+}
