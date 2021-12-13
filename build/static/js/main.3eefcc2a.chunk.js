@@ -1,2 +1,0 @@
-(this["webpackJsonpkartik-arora"]=this["webpackJsonpkartik-arora"]||[]).push([[0],{10:function(n,r,e){"use strict";e.r(r);var t=e(3),o=e.n(t),i=(e(8),e(0)),a=function(){return Object(i.jsxs)("main",{children:[Object(i.jsx)("h1",{children:"Coming Soon!"}),Object(i.jsx)("p",{children:"Thanks for visiting kartik-arora.com We're going to be live soon."})]})};o.a.render(Object(i.jsx)(a,{}),document.getElementById("root"))},8:function(n,r,e){}},[[10,1,2]]]);
-//# sourceMappingURL=main.3eefcc2a.chunk.js.map
